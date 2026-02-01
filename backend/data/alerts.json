@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1769850467364.409,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "mlScore": -0.026,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-31T09:07:47.364Z",
+    "status": "New"
+  },
+  {
+    "id": 1769850460631.5657,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "mlScore": -0.026,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-31T09:07:40.631Z",
+    "status": "New"
+  },
+  {
+    "id": 1769850394819.78,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "mlScore": -0.026,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-31T09:06:34.819Z",
+    "status": "New"
+  },
+  {
+    "id": 1769850376923.3591,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "mlScore": -0.026,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-31T09:06:16.923Z",
+    "status": "New"
+  },
+  {
+    "id": 1769850375886.1492,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "mlScore": -0.026,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-31T09:06:15.886Z",
+    "status": "New"
+  },
+  {
+    "id": 1769850356558.0178,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "mlScore": -0.026,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-31T09:05:56.558Z",
+    "status": "New"
+  },
+  {
+    "id": 1769797128732.623,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "mlScore": -0.026,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-30T18:18:48.732Z",
+    "status": "New"
+  },
+  {
+    "id": 1769797126686.9197,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "mlScore": -0.026,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-30T18:18:46.686Z",
+    "status": "New"
+  },
+  {
+    "id": 1769797055286.966,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "mlScore": -0.026,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-30T18:17:35.287Z",
+    "status": "New"
+  },
+  {
+    "id": 1769797046832.8245,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "mlScore": -0.026,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-30T18:17:26.832Z",
+    "status": "New"
+  },
+  {
+    "id": 1769795382505.5938,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "mlScore": -0.026,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-30T17:49:42.505Z",
+    "status": "New"
+  },
+  {
+    "id": 1769794100455.8525,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-30T17:28:20.455Z",
+    "status": "New"
+  },
+  {
+    "id": 1769793980940.4216,
+    "type": "Security Event",
+    "severity": "Critical",
+    "score": 0.9,
+    "source": "Frontend",
+    "description": "Manual test log from frontend",
+    "time": "2026-01-30T17:26:20.940Z",
+    "status": "New"
+  }
+]

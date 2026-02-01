@@ -1,0 +1,128 @@
+[
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769793980939,
+    "time": "2026-01-30T17:26:20.939Z"
+  },
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769794100454,
+    "time": "2026-01-30T17:28:20.454Z"
+  },
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769795382417,
+    "time": "2026-01-30T17:49:42.417Z"
+  },
+  {
+    "level": "WARN",
+    "message": "Unusual repeated behavior detected",
+    "source": "Frontend",
+    "id": 1769795482353,
+    "time": "2026-01-30T17:51:22.353Z"
+  },
+  {
+    "level": "WARN",
+    "message": "Unusual repeated behavior detected",
+    "source": "Frontend",
+    "id": 1769795483700,
+    "time": "2026-01-30T17:51:23.700Z"
+  },
+  {
+    "level": "WARN",
+    "message": "Unusual repeated behavior detected",
+    "source": "Frontend",
+    "id": 1769795500643,
+    "time": "2026-01-30T17:51:40.643Z"
+  },
+  {
+    "level": "WARN",
+    "message": "Unusual repeated behavior detected",
+    "source": "Frontend",
+    "id": 1769795523306,
+    "time": "2026-01-30T17:52:03.306Z"
+  },
+  {
+    "level": "WARN",
+    "message": "Unusual repeated behavior detected",
+    "source": "Frontend",
+    "id": 1769795524218,
+    "time": "2026-01-30T17:52:04.218Z"
+  },
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769797046418,
+    "time": "2026-01-30T18:17:26.418Z"
+  },
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769797055256,
+    "time": "2026-01-30T18:17:35.256Z"
+  },
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769797126659,
+    "time": "2026-01-30T18:18:46.659Z"
+  },
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769797128708,
+    "time": "2026-01-30T18:18:48.708Z"
+  },
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769850356318,
+    "time": "2026-01-31T09:05:56.318Z"
+  },
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769850375866,
+    "time": "2026-01-31T09:06:15.866Z"
+  },
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769850376908,
+    "time": "2026-01-31T09:06:16.908Z"
+  },
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769850394802,
+    "time": "2026-01-31T09:06:34.802Z"
+  },
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769850460609,
+    "time": "2026-01-31T09:07:40.609Z"
+  },
+  {
+    "level": "ERROR",
+    "message": "Manual test log from frontend",
+    "source": "Frontend",
+    "id": 1769850467347,
+    "time": "2026-01-31T09:07:47.347Z"
+  }
+]
