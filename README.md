@@ -1,9 +1,11 @@
 🛡️ AI-Enhanced Cybersecurity Threat Detection System
+
 📌 Overview
 
 The AI-Enhanced Cybersecurity Threat Detection System is a real-time security monitoring platform designed to detect both known and unknown cyber threats by combining rule-based detection with AI-based anomaly detection. The system analyzes logs in real time, generates intelligent alerts, and streams them instantly to a dashboard, enabling fast and explainable threat response.
 
 This project follows a MERN-style architecture (React, Node.js, Express) with a separate Python AI microservice, making it modular, scalable, and suitable for real-world cybersecurity use cases.
+
 🎯 Problem Statement
 
 Traditional cybersecurity systems rely heavily on static rules, leading to:
@@ -17,6 +19,7 @@ Delayed alerts
 Limited explainability
 
 There is a need for an adaptive, intelligent, and real-time threat detection system that can identify both known and emerging threats efficiently.
+
 ✅ Solution
 
 Our solution uses a hybrid detection approach:
@@ -26,12 +29,14 @@ Rule-based logic for known and critical threats
 AI-based anomaly detection (Isolation Forest) for unknown or suspicious behavior
 
 Alerts are generated based on a combined risk score and streamed in real time using WebSockets, ensuring fast visibility and explainable decisions.
+
 🏗️ System Architecture
 Frontend (React Dashboard)
         ↓
 Backend (Node.js + Express)
         ↓
 AI Microservice (Python + FastAPI)
+
 🔄 Project Workflow
 
 Logs are generated and sent to the backend
@@ -45,6 +50,8 @@ Rule score and AI score are combined
 Alerts are generated if the threshold is exceeded
 
 Logs and alerts are streamed to the dashboard in real time
+
+
 🤖 Machine Learning Details
 
 Model Used: Isolation Forest
@@ -58,7 +65,10 @@ No labeled data required
 Effective for detecting rare or unknown patterns
 
 Widely used in cybersecurity
+
+
 🧱 Tech Stack
+
 🖥️ Frontend
 
 React.js
@@ -97,6 +107,8 @@ Isolation Forest
 Git & GitHub
 
 VS Code
+
+
 🚀 How to Run the Project
 Prerequisites
 
@@ -107,6 +119,7 @@ npm
 Python (v3.8 or above)
 
 pip
+
 
 Steps
 
@@ -125,6 +138,8 @@ ML service runs on http://localhost:8000
 Start the frontend application
 cd frontend → npm install → npm run dev
 Frontend runs on http://localhost:5173
+
+
 🧪 How to Test
 
 Open the frontend dashboard
@@ -136,6 +151,8 @@ Click Send Test Log
 Navigate to the Alerts page
 
 Observe real-time alert generation with AI scores
+
+
 
 🌟 Key Features
 
@@ -150,6 +167,8 @@ Persistent backend storage
 Modular microservice architecture
 
 Zero-cost, local-first deployment
+
+
 🔮 Future Enhancements
 
 Database integration (MongoDB / PostgreSQL)
@@ -161,6 +180,8 @@ User authentication and role-based access
 Advanced analytics and reporting
 
 Cloud deployment
+
+
 
 🏁 Conclusion
 
